@@ -1,0 +1,50 @@
+
+body{
+    margin: 0%;
+}
+.first-row{
+    margin-left: 100px;
+    height: 400px;
+    width: 100%;
+   
+}
+.second-row{
+    margin-left: 100px;
+    height: 400px;
+    width: 100%;
+}
+.size{
+    border: groove 5px;
+    margin: 30px;
+    height: 500px;
+    width: 250px;
+    float: left;
+    background-color: #d7d9d7;
+}
+img{
+    border: solid 5px #36342f;
+    margin-top: 25px;
+    width: 175px;
+    height: 225px;
+}
+h1{
+    color: #36342f;
+    font-family: lucida handwriting;
+    font-size: 40px;
+    padding-top: 5px;
+}
+.bname{
+    color: #36342f;
+    font-family: sans-serif, helvetica;
+}
+.author{
+    color: #383632;
+}
+.authorh{
+    margin-bottom: 0%;
+    color: #383632;
+}
+a{
+    text-decoration-line: none;
+    color: #5af72f;
+}
